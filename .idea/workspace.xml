@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef0b472-922c-4ce8-8da5-eceb89cc4c27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/fonts/Tajawal-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/images/1994921.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/images/Libra.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/images/libra_PNG39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/js/fontawesome-all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blog/static/blog/js/popper.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blog/static/blog/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blog/static/blog/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/blog/templates/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/css/main.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575334368838</updated>
-      <workItem from="1575334395896" duration="8450000" />
+      <workItem from="1575334395896" duration="13864000" />
     </task>
     <task id="LOCAL-00001" summary="make basics settings of my project">
       <created>1575336393595</created>
@@ -116,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575338988057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added bootstrap files">
+      <created>1575388002339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575388002339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +116,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="make basics settings of my project" />
     <MESSAGE value="make static folder for all site" />
-    <option name="LAST_COMMIT_MESSAGE" value="make static folder for all site" />
+    <MESSAGE value="added bootstrap files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1575336796631">
@@ -142,10 +132,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1575335415871" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1575338953646">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1575387995733">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575338953646" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575387995733" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1575335259840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -162,10 +152,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575334973802" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575339033301">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575388013691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575339033301" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575388013691" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575335356506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
